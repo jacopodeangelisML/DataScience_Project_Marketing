@@ -1,6 +1,7 @@
 A response model can provide a significant boost to the efficiency of a marketing campaign by increasing responses or reducing expenses. 
-The objective is to predict who will respond to an offer for a product or service.
-The main objective is to train a predictive model which allows the company to maximize the profit of the next marketing campaign.
+The main objective is to predict who will respond to an offer for a product or service.
+The secondary aim is to analyze which specific factors (i.e., consumer behaviour, anagraphic data etc.) mostly predict customer responding or not to the campaign.
+The predictive model is expected to allow the company to maximize the profit of the next marketing campaign.
 
 Data source:
 https://www.kaggle.com/rodsaldanha/arketing-campaign
